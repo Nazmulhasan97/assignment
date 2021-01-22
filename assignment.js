@@ -69,7 +69,6 @@ console.log( totalCost);
 
 function megaFriend(array){
     var length=0;
-    var longest="";
      for(var i=0;i<array.length;i++){
       
        if(array[i].length>length){
