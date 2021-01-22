@@ -1,3 +1,8 @@
+//====================== github repository link==================
+
+//  https://github.com/Nazmulhasan97/assignment
+
+
 //========================First assignment code:============================
 
 function kilometerToMeter(distances){
